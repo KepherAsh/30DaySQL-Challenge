@@ -1,6 +1,6 @@
 # Entity Relationship
 ### Showing relationships of how data in the tables connect
-![Entity Relationship Diagram](/_assets/entityrelationship.png)
+![Entity Relationship Diagram](_assets/entityrelationship.png)
 
 ## Core Relationships
 * Person → Customer → Sales Orders
