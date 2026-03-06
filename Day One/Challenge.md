@@ -7,6 +7,8 @@ The goal is to solve real-world scenarios such as identifying design capacity wi
 **Use Case:** ApexMobility is launching a new high-performance bicycle line. The Engineering Stakeholder needs to assemble a specialized design team for the project. 
 To do this, they require a list of all employees currently holding the title ‘Design Engineer,’ including their hire dates and login IDs, to verify experience and system access before assigning them to the innovation team.
 
-**Business Impact:** Ensures the right talent and adequate tenure/experience are aligned to a strategic product initiative, accelerating time-to-market.
+**Business Impact:** Ensures the right talent and adequate tenure/experience are aligned to a strategic product initiative, accelerating time-to-market.<br>
 **Action:** Prepare a stakeholder-ready roster and summary notes.
+![Question1 Answer](/images/Question-1.png)
+
 
