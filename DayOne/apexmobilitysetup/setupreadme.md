@@ -1,5 +1,8 @@
 This repository contains the SQL scripts, data files, and PowerShell automation required to set up the DIWBikes PostgreSQL database.
 The setup process creates the database schema, applies indexes, and loads all required CSV data.
+## Project Structure
+
+```text
 SQL-Challenge/
 │
 ├── DIWBIKES Setup/              # SQL scripts for database initialization
@@ -35,3 +38,4 @@ SQL-Challenge/
     ├── person.csv
     ├── SalesOrderDetail.csv
     └── Employee.csv
+```
