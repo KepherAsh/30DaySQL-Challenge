@@ -13,8 +13,14 @@ To do this, they require a list of all employees currently holding the title ‘
 
 ## Question 2
 **Use Case:** Following several campus recruitment drives, HR wants to identify employees who joined after December 1, 2009, to track onboarding throughput, confirm contract statuses, and plan probation review cycles.
-**Business Impact:** Improves early-stage talent management, reduces compliance risks, and optimizes onboarding capacity.
-**Action:** Compile a clean, auditable list of recent hires with key identifiers.
+**Business Impact:** Improves early-stage talent management, reduces compliance risks, and optimizes onboarding capacity.<br>
+**Action:** Compile a clean, auditable list of recent hires with key identifiers.<br>
 ![Question2 Answer](images/Question-2.png)
+
+## Question 3
+**Use Case:** The Supply Chain team plans production runs for spring catalogs. They need to locate in-house manufactured items that are categorized and marked as finished goods but still lack color attributes—these fields drive bill of materials (BOM) accuracy and catalog presentation.
+**Business Impact:** Reduces data errors in BOMs and avoids catalog inconsistencies, decreasing rework and customer confusion.<br>
+**Action:** Deliver a prioritized data-cleanup inventory with impacted SKUs.<br>
+![Question2 Answer](images/Question-3.png)
 
 
