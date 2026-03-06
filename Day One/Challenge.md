@@ -18,7 +18,7 @@ To do this, they require a list of all employees currently holding the title ‘
 ![Question2 Answer](images/Question-2.png)
 
 ## Question 3
-**Use Case:** The Supply Chain team plans production runs for spring catalogs. They need to locate in-house manufactured items that are categorized and marked as finished goods but still lack color attributes—these fields drive bill of materials (BOM) accuracy and catalog presentation.
+**Use Case:** The Supply Chain team plans production runs for spring catalogs. They need to locate in-house manufactured items that are categorized and marked as finished goods but still lack color attributes—these fields drive bill of materials (BOM) accuracy and catalog presentation.<br>
 **Business Impact:** Reduces data errors in BOMs and avoids catalog inconsistencies, decreasing rework and customer confusion.<br>
 **Action:** Deliver a prioritized data-cleanup inventory with impacted SKUs.<br>
 ![Question2 Answer](images/Question-3.png)
