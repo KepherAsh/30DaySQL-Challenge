@@ -2,11 +2,11 @@ This repository contains the SQL scripts, data files, and PowerShell automation 
 The setup process creates the database schema, applies indexes, and loads all required CSV data.
 SQL-Challenge/
 │
-├── APEXMOBILITY Setup/              # SQL scripts for database initialization
-│   ├── apexmobilitydbsetup.sql      # Schema and table creation
-│   └── apexmobilitydbsetupindex.sql # Index creation
-│   └── apexmobilitypowershellsetup.ps1 # PowerShell Setup Script
-|   └── README.md               # Project documentation and setup instructions
+├── APEXMOBILITY Setup/              # SQL scripts for database initialization<br>
+│   ├── apexmobilitydbsetup.sql      # Schema and table creation<br>
+│   └── apexmobilitydbsetupindex.sql # Index creation<br>
+│   └── apexmobilitypowershellsetup.ps1 # PowerShell Setup Script<br>
+|   └── README.md               # Project documentation and setup instructions<br>
 |
 ├── ApexMobility Data/               # Primary data files (tab-delimited CSVs)
 │   ├── Address.csv
