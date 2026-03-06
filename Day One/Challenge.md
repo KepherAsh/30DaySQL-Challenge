@@ -9,6 +9,6 @@ To do this, they require a list of all employees currently holding the title ‘
 
 **Business Impact:** Ensures the right talent and adequate tenure/experience are aligned to a strategic product initiative, accelerating time-to-market.<br>
 **Action:** Prepare a stakeholder-ready roster and summary notes.
-![Question1 Answer](/images/Question-1.png)
+![Question1 Answer](images/Question-1.png)
 
 
