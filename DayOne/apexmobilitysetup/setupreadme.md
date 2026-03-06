@@ -2,13 +2,13 @@ This repository contains the SQL scripts, data files, and PowerShell automation 
 The setup process creates the database schema, applies indexes, and loads all required CSV data.
 SQL-Challenge/
 │
-├── APEXMOBILITY Setup/              # SQL scripts for database initialization<br>
-│   ├── apexmobilitydbsetup.sql      # Schema and table creation<br>
-│   └── apexmobilitydbsetupindex.sql # Index creation<br>
-│   └── apexmobilitypowershellsetup.ps1 # PowerShell Setup Script<br>
-|   └── README.md               # Project documentation and setup instructions<br>
-|
-├── ApexMobility Data/               # Primary data files (tab-delimited CSVs)
+├── DIWBIKES Setup/              # SQL scripts for database initialization
+│   ├── diwbikesdbsetup.sql      # Schema and table creation
+│   ├── diwbikesdbsetupindex.sql # Index creation
+│   ├── diwbikespowershellsetup.ps1 # PowerShell Setup Script
+│   └── README.md                # Project documentation and setup instructions
+│
+├── DIWBikes Data/               # Primary data files (tab-delimited CSVs)
 │   ├── Address.csv
 │   ├── AddressType.csv
 │   ├── Location.csv
@@ -31,7 +31,7 @@ SQL-Challenge/
 │   ├── EmployeePayHistory.csv
 │   └── ...
 │
-└── ApexMobility Data/bikes_csv/     # Additional data (comma-delimited CSVs)
+└── DIWBikes Data/bikes_csv/     # Additional data (comma-delimited CSVs)
     ├── person.csv
     ├── SalesOrderDetail.csv
     └── Employee.csv
