@@ -15,4 +15,6 @@ To do this, they require a list of all employees currently holding the title ‘
 **Use Case:** Following several campus recruitment drives, HR wants to identify employees who joined after December 1, 2009, to track onboarding throughput, confirm contract statuses, and plan probation review cycles.
 **Business Impact:** Improves early-stage talent management, reduces compliance risks, and optimizes onboarding capacity.
 **Action:** Compile a clean, auditable list of recent hires with key identifiers.
+![Question2 Answer](images/Question-2.png)
+
 
