@@ -15,3 +15,9 @@ The list should remove legacy domain prefixes to simplify credential verificatio
 **Business Impact:** Identifies bottlenecks in order fulfillment and improves SLA performance.<br>
 **Action:** Prepare a reconciliation extract highlighting order and ship-date filters.<br>
 ![Question 2](images/Question-2.png)
+
+**Question 3**<br>
+**Use Case:** The Product Manager is curating marketing assets for chain-related components. They need a readable list combining product name and number to feed content systems and ensure consistent messaging.<br>
+**Business Impact:** Enhances content consistency and reduces catalog mistakes across channels.<br>
+**Action:** Create a curated SKU list with a combined display field for product name and number.<br>
+![Question 3](images/Question-3.png)
