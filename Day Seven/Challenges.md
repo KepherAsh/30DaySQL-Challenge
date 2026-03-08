@@ -12,3 +12,8 @@ Expands reach and enables email-only or data-completion workflows.
 They require complete address details to ensure postal mail accuracy and compliance.<br>
 **Business Impact:** Increases campaign deliverability and lowers mailing waste.
 **Action:** Assemble a contact file with full address fields for the Kim segment.
+
+**Question 2**<br>
+**Use Case:** To avoid missing potential responders, Marketing team wants the Kim cohort even when address details are incomplete, so they can trigger email-only or data-enrichment workflows.<br>
+**Business Impact:**  Expands reach and informs data-completion strategies for priority segments.
+**Action:** Provide an inclusive contact list and flag missing-address records for enrichment.
