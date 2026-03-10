@@ -8,3 +8,4 @@ This exercise focuses on retrieving employee details based on hire dates, analyz
 **Business Impact:** Drives growth from key accounts and informs strategic outreach.<br>
 **Action:** Produce a ranked performance deck with contact details and total sales.<br>
 
+![Question-1](images/Question-1.png)
