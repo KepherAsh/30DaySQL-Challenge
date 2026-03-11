@@ -8,3 +8,11 @@
 **Action:** Deliver a portfolio distribution report with category/subcategory counts.<br>
 
 ![Question 1](images/Question-1.png)
+
+**Question 2**<br>
+**Use Case:** Sales Analytics seeks order volume, products sold, and total quantities by category and sub category to measure demand strength and breadth of adoption.<br>
+**Business Impact:** Guides replenishment planning and category-level sales strategy.<br>
+**Action:** Publish a category performance summary with volume and breadth indicators.<br>
+
+![Question 2](images/Question-2.png)
+
