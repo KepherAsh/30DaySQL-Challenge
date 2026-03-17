@@ -10,4 +10,4 @@
 
 **Action:**  Generate a single, multi‑level revenue summary using SQL GROUPING SETS to efficiently calculate yearly, quarterly, and monthly totals. Share the resulting hierarchical trend view with Finance, highlighting key variances, seasonal inflection points, and areas requiring deeper investigation.**
 
-![Question 1](images/Question-1.png)
+![Question 1](images/Question-1A.png)
