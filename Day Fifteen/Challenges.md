@@ -1,6 +1,7 @@
 # DAY FOURTEEN CHALLENGES
 ## OBJECTIVE
-** Showcase the ability to use SQL aggregation functions, multi‑table joins, and year‑based filtering to generate category‑level sales intelligence—including total products sold, category revenue, and average revenue per product. This supports accurate product portfolio analysis and helps stakeholders understand which categories drive volume versus value.**
+**Showcase the ability to use SQL aggregation functions, multi‑table joins, and year‑based filtering to generate category‑level sales intelligence—including total products sold, category revenue, and average revenue per product. This supports accurate product portfolio analysis and helps stakeholders understand which categories drive volume versus value.**
+
 **Question 1**
 
 **Use Case:** Merchandising, Finance, and BI teams need a unified view of 2024 product‑category performance—including number of distinct products sold, total units sold, and average revenue per product—to identify strong and weak product categories, monitor category health, and optimize inventory, pricing decisions, and promotional focus.**
@@ -13,4 +14,5 @@
 - These category‑level signals drive better assortment management, revenue growth opportunities, and operational efficiency across the product lifecycle.
 - 
 **Action:**  Deliver a clean 2024 product‑category performance summary, including total units sold and average revenue per product. Present the results to stakeholders with category‑level insights and recommended next steps—such as adjusting category strategy, prioritizing high‑yield products, or performing deeper product‑level diagnostics where average revenue appears unusually high or low.
+  
 ![Question 1](images/Question-1A.png)
