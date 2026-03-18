@@ -1,4 +1,4 @@
-# DAY FOURTEEN CHALLENGES
+# DAY FIFTEEN CHALLENGES
 ## OBJECTIVE
 **Showcase the ability to use SQL aggregation functions, multi‑table joins, and year‑based filtering to generate category‑level sales intelligence—including total products sold, category revenue, and average revenue per product. This supports accurate product portfolio analysis and helps stakeholders understand which categories drive volume versus value.**
 
