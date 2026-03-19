@@ -15,4 +15,4 @@ These category‑level signals drive better assortment management, revenue growt
 
 **Action:**  Deliver a clean 2024 product‑category performance summary, including total units sold and average revenue per product. Present the results to stakeholders with category‑level insights and recommended next steps—such as adjusting category strategy, prioritizing high‑yield products, or performing deeper product‑level diagnostics where average revenue appears unusually high or low.
   
-![Question 1](images/Question-1A.png)
+![Question 1](images/carbon.png)
