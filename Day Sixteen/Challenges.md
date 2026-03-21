@@ -16,4 +16,4 @@ By identifying product‑level revenue leaders, the business can make more targe
 
 **Action:**  Deliver a filtered list of products whose 2024 revenue exceeds their category’s average revenue. Present the output in an executive summary highlighting top outperforming SKUs, category implications, and recommended next steps—such as inventory scaling, promotional emphasis, or deeper profitability analysis.
   
-![Question 1](images/carbon.png)
+![Question 1](images/Question-1.png)
