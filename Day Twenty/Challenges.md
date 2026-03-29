@@ -4,7 +4,7 @@
 
 **Question 1**
 
-**Use Case:**The business needs to identify customers whose purchase behavior qualifies or disqualifies them for targeted programs. Isolate customers who have placed orders, as well as customers with no order activity. These segments are essential for campaigns such as re‑engagement, first‑purchase incentives, and cross‑sell opportunities.
+**Use Case:** The business needs to identify customers whose purchase behavior qualifies or disqualifies them for targeted programs. Isolate customers who have placed orders, as well as customers with no order activity. These segments are essential for campaigns such as re‑engagement, first‑purchase incentives, and cross‑sell opportunities.
 
 **Business Impact:**  
 Improves targeting accuracy by ensuring customers are placed into the correct behavioral segments. Reduces wasted marketing spend, increases campaign relevance, and supports more effective engagement strategies—ultimately driving higher conversion rates and customer lifetime value.
