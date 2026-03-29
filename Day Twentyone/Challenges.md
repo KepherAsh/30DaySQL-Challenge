@@ -35,7 +35,8 @@ This enables monitoring of OTIF (on‑time, in‑full proxy via on‑time ship) 
 - Gross margin: revenue proxy via unit_price minus standard_cost (line-expanded, summed by order, then by month).  
 
 ## **Operationalization**
-1. Schedule daily refresh for the prior and current months; monthly full refresh for historical stability.  
+
+**1. Schedule daily refresh for the prior and current months; monthly full refresh for historical stability.** 
 
 **2. Quality checks**
 
