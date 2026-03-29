@@ -16,3 +16,5 @@
 **Action:**  Produce the two datasets for both scenarios of February 2024 to downstream analytics, Sales Ops, and Marketing activation workflows.
   
 ![Question 1](images/Question-1.png)
+
+![Question 1.1](images/Question-2.png)
