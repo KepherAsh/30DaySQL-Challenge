@@ -1,6 +1,6 @@
 # DAY NINETEEN CHALLENGES
 ## OBJECTIVE
-**Demonstrate expertise in using CTE structures and set‑logic operators—particularly UNION and UNION ALL—to consolidate customer data derived from different filtering rules. This ensures accurate merging of customer datasets, eliminates unintended duplicates, and produces a clean, enriched customer list joined to person‑level details.**
+**Demonstrate expertise in using CTE structures and set‑logic operators—specifically INTERSECT and EXCEPT—to derive precise customer segments based on multiple business rules. This approach enables analysts to (a) isolate overlap between criteria and (b) subtract groups to find mutually exclusive customers, producing accurate, purpose‑built lists for downstream activation.**
 
 **Question 1**
 
